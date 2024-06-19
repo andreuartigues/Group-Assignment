@@ -1,5 +1,4 @@
 import streamlit as st
-from wordcloud import WordCloud
 import folium
 from streamlit_folium import folium_static
 import matplotlib.pyplot as plt
