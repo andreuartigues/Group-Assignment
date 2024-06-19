@@ -7,12 +7,7 @@ import pandas as pd
 import spacy
 nlp = spacy.load('en_core_web_sm')
 from sklearn.base import BaseEstimator, TransformerMixin
-from sklearn.pipeline import Pipeline
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-from sklearn.preprocessing import LabelEncoder
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, classification_report
+
 
 # Set page configuration
 st.set_page_config(
