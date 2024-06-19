@@ -1,4 +1,11 @@
 import streamlit as st
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+import joblib
+
+#Mirar cosas de chache
+pipeline = joblib.load('disease_prediction_pipeline.pkl')
+label_encoder = joblib.load('label_encoder.pkl')
 
 # Set page configuration
 st.set_page_config(
@@ -46,7 +53,7 @@ st.markdown(custom_css, unsafe_allow_html=True)
 # Title and description
 st.title("👩‍⚕️ Medical Trends Through Entity Recognition & Synthetic Datasets")
 st.markdown("---")
-st.write("Enter your symptoms to receive a diagnosis based on medical trends.")
+st.write("Enter your symptoms to explore medical entities and visualize symptom frequencies.")
 
 # Sidebar information
 with st.sidebar:
@@ -62,20 +69,18 @@ with st.sidebar:
 st.subheader("Describe your symptoms:")
 symptoms = st.text_area("", height=150, placeholder="e.g., fever, headache, muscle pain...")
 
-# Button to get diagnosis
-if st.button("Get Diagnosis"):
-    # Placeholder for diagnosis generation logic
-    diagnosis = "This is a placeholder for the diagnosis. The actual diagnosis will be generated once the model is integrated."
-    
-    # Display the diagnosis
-    st.markdown("### Diagnosis")
-    st.write(diagnosis)
-
-    # Placeholder for entity recognition results
-    st.markdown("### Recognized Entities")
-    st.write("Entity recognition results will be displayed here once the model is integrated.")
+# Button to analyze symptoms
+if st.button("Analyze Symptoms"):
+    if symptoms:
+        predicted_label = pipeline.predict([symptoms])
+        predicted_disease = label_encoder.inverse_transform(predicted_label)
+            
+        st.markdown("### Recognized Medical Entities")
+        st.write(f'Predicted Disease: {predicted_disease[0]}')
+    else:
+        st.write("No medical entities found in the input.")
 else:
-    st.info("Click the button to get your diagnosis.")
+    st.info("Click the button to analyze your symptoms.")
 
 # Footer
 st.markdown("---")
