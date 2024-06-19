@@ -1,0 +1,264 @@
+,word,hospital_name,latitude,longitude
+0,runny nose,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+1,runny nose,Hospital Universitario de Getafe,-3.7324,40.3083
+2,runny nose,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+3,runny nose,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+4,runny nose,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+5,runny nose,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+6,runny nose,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+7,runny nose,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+8,runny nose,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+9,runny nose,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+10,runny nose,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+11,runny nose,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+12,runny nose,Hospital Universitario de Torrejon,-3.4753,40.4562
+13,runny nose,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+14,runny nose,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+15,runny nose,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+16,sneezing,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+17,sneezing,Hospital Universitario de Getafe,-3.7324,40.3083
+18,sneezing,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+19,sneezing,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+20,sneezing,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+21,sneezing,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+22,sneezing,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+23,sneezing,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+24,sneezing,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+25,sneezing,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+26,sneezing,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+27,sneezing,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+28,sneezing,Hospital Universitario de Torrejon,-3.4753,40.4562
+29,sneezing,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+30,sneezing,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+31,sneezing,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+32,sneezing,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+33,sore throat,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+34,sore throat,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+35,sore throat,Hospital Universitario de Getafe,-3.7324,40.3083
+36,sore throat,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+37,sore throat,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+38,sore throat,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+39,sore throat,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+40,sore throat,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+41,sore throat,Hospital Universitario de Torrejon,-3.4753,40.4562
+42,sore throat,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+43,sore throat,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+44,sore throat,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+45,cough,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+46,cough,Hospital Universitario de Getafe,-3.7324,40.3083
+47,cough,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+48,cough,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+49,cough,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+50,cough,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+51,cough,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+52,cough,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+53,cough,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+54,cough,Hospital Universitario de Torrejon,-3.4753,40.4562
+55,cough,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+56,cough,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+57,fatigued,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+58,fatigued,Hospital Universitario de Getafe,-3.7324,40.3083
+59,fatigued,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+60,fatigued,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+61,fatigued,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+62,fatigued,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+63,fatigued,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+64,fatigued,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+65,fatigued,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+66,fatigued,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+67,fatigued,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+68,fatigued,Hospital Universitario de Torrejon,-3.4753,40.4562
+69,fatigued,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+70,fatigued,Hospital Universitario de Fuenlabrada,-3.7978,40.2875
+71,fatigued,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+72,fatigued,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+73,aches,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+74,aches,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+75,aches,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+76,aches,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+77,redness,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+78,redness,Hospital Universitario de Getafe,-3.7324,40.3083
+79,redness,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+80,redness,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+81,redness,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+82,redness,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+83,redness,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+84,redness,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+85,redness,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+86,redness,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+87,redness,Hospital Universitario de Torrejon,-3.4753,40.4562
+88,redness,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+89,redness,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+90,redness,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+91,redness,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+92,discharge,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+93,discharge,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+94,discharge,Hospital Universitario de Getafe,-3.7324,40.3083
+95,discharge,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+96,discharge,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+97,discharge,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+98,discharge,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+99,discharge,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+100,discharge,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+101,discharge,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+102,discharge,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+103,discharge,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+104,nasal congestion,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+105,nasal congestion,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+106,nasal congestion,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+107,coughing,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+108,coughing,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+109,coughing,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+110,coughing,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+111,fatigue,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+112,fatigue,Hospital Universitario La Zarzuela,-3.8265,40.4481
+113,fatigue,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+114,fatigue,Hospital Universitario de Fuenlabrada,-3.7978,40.2875
+115,fatigue,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+116,fever,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+117,fever,Hospital Universitario de Getafe,-3.7324,40.3083
+118,fever,Hospital Universitario de Getafe,-3.7324,40.3083
+119,fever,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+120,fever,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+121,fever,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+122,fever,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+123,fever,Hospital Universitario La Zarzuela,-3.8265,40.4481
+124,fever,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+125,fever,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+126,fever,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+127,fever,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+128,fever,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+129,fever,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+130,fever,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+131,fever,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+132,fever,Hospital Universitario de Torrejon,-3.4753,40.4562
+133,fever,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+134,fever,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+135,fever,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+136,fever,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+137,fever,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+138,viral infection,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+139,viral infection,Hospital Universitario de Getafe,-3.7324,40.3083
+140,viral infection,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+141,viral infection,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+142,Common Cold,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+143,Common Cold,Hospital Universitario de Getafe,-3.7324,40.3083
+144,Common Cold,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+145,Common Cold,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+146,Common Cold,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+147,Common Cold,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+148,Common Cold,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+149,Common Cold,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+150,Common Cold,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+151,Common Cold,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+152,pain,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+153,pain,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+154,pain,Hospital Universitario de Torrejon,-3.4753,40.4562
+155,pain,Hospital Universitario de Torrejon,-3.4753,40.4562
+156,pain,Hospital Universitario de Fuenlabrada,-3.7978,40.2875
+157,pain,Hospital Universitario de Fuenlabrada,-3.7978,40.2875
+158,pain,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+159,pain,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+160,nauseous,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+161,bloated,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+162,vomiting,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+163,obesity,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+164,loss,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+165,tenderness,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+166,tenderness,Hospital Universitario de Torrejon,-3.4753,40.4562
+167,stones,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+168,Gallstones,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+169,feeling,Hospital Universitario de Getafe,-3.7324,40.3083
+170,feeling,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+171,feeling,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+172,feeling,Hospital Universitario de Torrejon,-3.4753,40.4562
+173,feeling,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+174,respiratory tract,Hospital Universitario de Getafe,-3.7324,40.3083
+175,infection,Hospital Universitario de Getafe,-3.7324,40.3083
+176,infection,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+177,infection,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+178,infection,Hospital Universitario de Torrejon,-3.4753,40.4562
+179,complications,Hospital Universitario de Getafe,-3.7324,40.3083
+180,scratchy throat,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+181,scratchy throat,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+182,scratchy throat,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+183,scratchy throat,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+184,scratchy throat,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+185,scratchy throat,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+186,headache,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+187,headache,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+188,headache,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+189,headache,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+190,headache,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+191,congestion,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+192,congestion,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+193,congestion,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+194,congestion,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+195,congestion,Hospital Universitario de Torrejon,-3.4753,40.4562
+196,cold virus,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+197,decongestants,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+198,decongestants,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+199,pain relievers,Hospital Universitario Ramon y Cajal,-3.6781,40.4956
+200,pain relievers,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+201,viral,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+202,viral,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+203,viral,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+204,viral,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+205,respiratory infection,Hospital Universitario Quironsalud Madrid,-3.8265,40.4507
+206,respiratory infection,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+207,weakness,Hospital Universitario La Zarzuela,-3.8265,40.4481
+208,pale skin,Hospital Universitario La Zarzuela,-3.8265,40.4481
+209,shortness of breath,Hospital Universitario La Zarzuela,-3.8265,40.4481
+210,shortness of breath,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+211,dizzy,Hospital Universitario La Zarzuela,-3.8265,40.4481
+212,dizzy,Hospital Universitario de Fuenlabrada,-3.7978,40.2875
+213,lightheaded,Hospital Universitario La Zarzuela,-3.8265,40.4481
+214,weight loss,Hospital Universitario La Zarzuela,-3.8265,40.4481
+215,jaundice,Hospital Universitario La Zarzuela,-3.8265,40.4481
+216,lymphadenopathy,Hospital Universitario La Zarzuela,-3.8265,40.4481
+217,respiratory tract infection,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+218,disease,Hospital Universitario Principe de Asturias,-3.3661,40.4847
+219,symptoms,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+220,symptoms,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+221,exudates,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+222,upper respiratory infection,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+223,upper respiratory infection,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+224,viral illness,Hospital Universitario Fundacion Jimenez Diaz,-3.7178,40.4395
+225,viral illness,Hospital Universitario de Torrejon,-3.4753,40.4562
+226,worker,Hospital Universitario de Torrejon,-3.4753,40.4562
+227,stiffness,Hospital Universitario de Torrejon,-3.4753,40.4562
+228,stiffness,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+229,swelling,Hospital Universitario de Torrejon,-3.4753,40.4562
+230,swelling,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+231,limited,Hospital Universitario de Torrejon,-3.4753,40.4562
+232,damage,Hospital Universitario de Torrejon,-3.4753,40.4562
+233,narrowing,Hospital Universitario de Torrejon,-3.4753,40.4562
+234,achy,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+235,mucus discharge,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+236,wheezing,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+237,wheezing,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+238,difficulty breathing,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+239,difficulty breathing,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+240,rhinovirus,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+241,rhinovirus,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+242,coronavirus,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+243,coronavirus,Hospital Universitario Infanta Cristina,-3.8291,40.2808
+244,bacteria,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+245,upper respiratory tract infection,Hospital Universitario Vithas Madrid Arturo Soria,-3.6484,40.4457
+246,inflammation,Hospital Universitario Severo Ochoa,-3.7694,40.3317
+247,respiratory,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+248,influenza,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+249,allergies,Hospital Universitario 12 de Octubre,-3.7074,40.3733
+250,headaches,Hospital Universitario de Fuenlabrada,-3.7978,40.2875
+251,headaches,Hospital Universitario de Fuenlabrada,-3.7978,40.2875
+252,Hypertension,Hospital Universitario de Fuenlabrada,-3.7978,40.2875
+253,dizziness,Hospital Universitario de Fuenlabrada,-3.7978,40.2875
+254,overweight,Hospital Universitario de Fuenlabrada,-3.7978,40.2875
+255,swollen,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+256,asthma,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+257,COPD,Hospital Universitario Infanta Sofia,-3.6201,40.5705
+258,crackles,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+259,respiratory distress,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+260,cold medications,Hospital Universitario Puerta de Hierro Majadahonda,-3.8626,40.476
+261,warmth,Hospital Universitario de Collado Villalba,-4.0064,40.6362
+262,range of motion,Hospital Universitario de Collado Villalba,-4.0064,40.6362
