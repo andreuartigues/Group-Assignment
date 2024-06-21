@@ -103,8 +103,8 @@ if st.button("Analyze Symptoms"):
         predicted_label = pipeline.predict(symptoms_series)
         predicted_disease = label_encoder.inverse_transform(predicted_label)
             
-        st.markdown("### Recognized Medical Entities")
-        st.write(f'Predicted Disease: {predicted_disease[0]}')
+        st.write(f"### Recognized Medical Entities: {predicted_disease[0]}")
+        
     else:
         st.write("No medical entities found in the input.")
 else:

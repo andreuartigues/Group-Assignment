@@ -68,7 +68,7 @@ st.write("Enter your keywords to explore medical entities and visualize where in
 
 # Text input for symptoms
 st.subheader("Entity:")
-symptoms = st.text_area("", height=50, placeholder="e.g., fever, headache, muscle pain...")
+symptoms = st.text_area("", height=50, placeholder="e.g., runny nose, hyperthension, muscle pain...")
 
 
 # Function to visualize our words on the map
